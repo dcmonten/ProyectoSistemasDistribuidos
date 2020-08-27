@@ -7,6 +7,8 @@ https://github.com/dcmonten/gestion_ui
 
 Deploy (Netlify):
 https://dist-sys-gestionui.netlify.app/
+Deploy (AWS Amplify):
+https://master.d33gvbz5ml7hyu.amplifyapp.com/
 
 ## Servidor 
 
